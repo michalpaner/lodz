@@ -45,6 +45,13 @@ If you want to host a server, take a look at [command line instructions](https:/
 - open startup scene located at Assets/Scenes/Startup.unity
 - press Play button
 
+## Łódź map scene
+
+- In Unity, run `San Andreas Unity > Łódź > Generate Łódź Map Scene`.
+- Open `Assets/Scenes/Lodz.unity` and press Play.
+- Pan with WASD or the arrow keys; zoom with the mouse wheel.
+- The scene adds Łódź districts, nearby towns, landmarks, and schematic roads. Existing San Andreas scenes remain unchanged.
+- Place coordinates are geographic; building and local street layouts are conceptual rather than navigation-accurate.
 
 ## In-game controls
 
